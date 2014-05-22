@@ -17,3 +17,9 @@ Crazy right!? It'd be fun, simple, and a cool lesson in physics! That's what eve
 [Resonance of Air Columns](http://hyperphysics.phy-astr.gsu.edu/hbase/waves/opecol.html)
 
 [Frequencies of Musical Notes](http://www.phy.mtu.edu/~suits/notefreqs.html)
+
+###While a Xylophone Table Would Be Cool....###
+
+A few of THESE:
+
+![PVC Xylophone Backpack](https://c2.staticflickr.com/4/3062/2889606635_653746876c.jpg)
