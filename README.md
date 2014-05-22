@@ -14,6 +14,6 @@ Crazy right!? It'd be fun, simple, and a cool lesson in physics! That's what eve
 
 ###But really!###
 
-![Resonance of Air Columns](http://hyperphysics.phy-astr.gsu.edu/hbase/waves/opecol.html)
+[Resonance of Air Columns](http://hyperphysics.phy-astr.gsu.edu/hbase/waves/opecol.html)
 
-![Frequencies of Musical Notes](http://www.phy.mtu.edu/~suits/notefreqs.html)
+[Frequencies of Musical Notes](http://www.phy.mtu.edu/~suits/notefreqs.html)
